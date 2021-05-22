@@ -3,6 +3,7 @@ $(document).ready(function (){
     $car = $('.car');
     $img = $('.car img');
     let flag = true;
+    // kjh
 
 
     const car = ['./asserts/Img_05.png','./asserts/Img_06.png']

@@ -12,7 +12,7 @@ body{
     background: url("./asserts/Img_1.png");
     background-size: cover;
     position: relative;
-    box-shadow: 1px 2px 3px rgba(0,0,0,0.4);
+    box-shadow: 1px 2px 3px rgba(0,0,0,0.5);
     overflow-x: hidden;
 }
 
